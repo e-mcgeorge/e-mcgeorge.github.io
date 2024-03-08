@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # Hidden. Can reactivate if want a submenu
 nav_order: 8
 dropdown: true
 children:
