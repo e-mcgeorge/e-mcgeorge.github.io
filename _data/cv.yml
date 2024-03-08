@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Elizabeth McGeorge
     - name: Date of Birth
-      value: 14th March 1879
+      value: 5th Feb 1997
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Canterbury, Christchurch, New Zealand
+      year: 2023
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: B. Sc. (Hons) (First Class)
+      institution: University of Canterbury, Christchurch, New Zealand
+      year: 2019
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Scholar
+      institution: Cooperative Institute for Climate, Ocean, & Ecosystems Studies, University of Washington
+      year: 2024 - 
       description:
         - Description 1.
         - Description 2.
@@ -41,16 +41,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Lecturer 
+      institution: School of Mathematics and Statistics, College of Engineering, University of Canterbury
+      year: 2022
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Mathamtics Teaching Assistant
+      institution: School of Mathematics and Statistics, College of Engineering, University of Canterbury
+      year: 2018 - 2022
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
