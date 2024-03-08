@@ -2,9 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://cicoes.uw.edu/education/postdoc-program/current-postdoctoral-researchers/">University of Washington</a>, <a href="https://www.pmel.noaa.gov/ocs/people">NOAA Pacific Marine Environment Laboratory</a>
-<br>
-<i>He hiringa hangarau, he oranga tangata.</i>
+subtitle: <a href="https://cicoes.uw.edu/education/postdoc-program/current-postdoctoral-researchers/">University of Washington</a>, <a href="https://www.pmel.noaa.gov/ocs/people">NOAA Pacific Marine Environment Laboratory</a> <i>He hiringa hangarau, he oranga tangata.</i>
 
 
 profile:
