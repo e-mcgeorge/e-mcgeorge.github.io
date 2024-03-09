@@ -24,8 +24,7 @@
     {
       "name": "University of Washington",
       "position": "Postdoctoral Researcher",
-      "startDate": "2024",
-      "endDate": "",
+      "date": "2024",
       "highlights": [],
       "summary": "Postdoctoral researcher working at the University of Washington's Cooperative Institute for Climate, Ocean, and Ecosystem Studies in collaboration with the NOAA Pacific Marine Environmental Laboratory.\n\nI am working with Dr. Yolande Serra (UW CICOES), Dr. Dongxiao Zhang (UW CICOES/NOAA PMEL) and Dr. Meghan Cronin (NOAA PMEL). Our current work is part of a much larger process study to be carried out at the eastern edge of the warm pool (EEWP) and cold tongue regions seeking to address uncertainties in processes regulating sea surface temperatures (SSTs). A key parameter for regulating equatorial SST and the location of the EEWP is upper ocean vertical velocity, which is needed in the calculation of turbulent mixing within the mixed layer and vertical advection of water properties across the base of the mixed layer over a range of time scales. We are investigating the usefulness of acoustic doppler current profilers (ADCPs) on Saildrones for calculating vertical velocity. This work aims to assist in reducing model biases in the eastern tropical Pacific and improving skill in El Niño Southern Oscillation (ENSO) predictions.",
       "url": "https://www.linkedin.com/school/university-of-washington/"
@@ -34,7 +33,6 @@
       "name": "University of Canterbury",
       "position": "Lecturer (Teaching and Admin) - Mathematics and Statistics",
       "startDate": "2022",
-      "endDate": "2022",
       "highlights": [],
       "summary": "Lectured on two courses: ENCH298 and EMTH119. For both, I was responsisble for delivering lectures, providing regular office hours and both writing and marking examinations.\n\nENCH298 is a course for second year chemical and process engineering students. It is designed to amalgamate the mathematics they need along with the applications they will experience in their field. Topics lectured include Laplace and Fourier transforms, Fourier analysis,  multivariate calculus. The course had a single stream of three 1-hour lectures. I delivered all the lectures for 7 weeks of this course.\n\nEMTH119 is a mathematics course for first year engineering students. It has approximately 1000 students and has four 1-hour teaching lectures a week, delivered in two separate streams morning and afternoon giving 8 hours total. For this course, I delivered all lectures for a 3 week section on probability theory. Topics covered include set theory, discrete and random variables, expectation, mean, and variance.",
       "url": "https://www.linkedin.com/school/university-of-canterbury/",
@@ -63,7 +61,6 @@
       "name": "Vail Resorts Retail LLC",
       "position": "Store Supervisor",
       "startDate": "2017",
-      "endDate": "2017",
       "highlights": [],
       "summary": "General management duties including shipping/receiving, mentoring, timetabling, inventory monitoring, ensuring company policy compliance, day-to-day floor management as well as store cash handling.",
       "url": "https://www.linkedin.com/company/vail-resorts-retail-llc/",
@@ -80,8 +77,8 @@
     {
       "name": "University of Canterbury",
       "position": "UC Events Host",
-      "startDate": "2015-08-31",
-      "endDate": "2016-11-30",
+      "startDate": "2015",
+      "endDate": "2016",
       "highlights": [],
       "url": "https://www.linkedin.com/school/university-of-canterbury/",
       "location": "Christchurch, Canterbury, New Zealand"
@@ -89,8 +86,7 @@
     {
       "name": "University of Canterbury",
       "position": "Teaching Assistant",
-      "startDate": "2016-02-28",
-      "endDate": "2016-07-31",
+      "startDate": "2016",
       "highlights": [],
       "url": "https://www.linkedin.com/school/university-of-canterbury/",
       "location": "Christchurch, Canterbury, New Zealand"
@@ -98,24 +94,23 @@
     {
       "name": "Burger Wisconsin",
       "position": "Cashier / Kitchen Staff",
-      "startDate": "2012-02-28",
-      "endDate": "2014-02-28",
+      "startDate": "2012",
+      "endDate": "2014",
       "highlights": [],
       "url": "https://www.linkedin.com/company/burger-wisconsin/",
       "location": "Christchurch, Canterbury, New Zealand"
     }
   ],
-  "volunteer": [],
-  "education": [
+  "volunteer": [
     {
-      "institution": "University of Washington",
-      "area": "",
-      "studyType": "Non-Matriculated Student",
-      "startDate": "2024-03-31",
-      "endDate": "",
-      "score": "",
-      "courses": []
-    },
+      "organization": "Canterbury University Snow Sports Club",
+      "position": "Secretary",
+      "startDate": "2018",
+      "endDate": "2020"
+    }
+  ],
+  "education": [
+   
     {
       "institution": "The University of British Columbia",
       "area": "Mathematics",
@@ -144,15 +139,6 @@
       "courses": []
     },
     {
-      "institution": "Te Wānanga o Raukawa",
-      "area": "",
-      "studyType": "Certificate of Te Reo Māori",
-      "startDate": "2024-02-28",
-      "endDate": "",
-      "score": "",
-      "courses": []
-    },
-    {
       "institution": "University of Canterbury",
       "area": "Mathematics",
       "studyType": "Bachelor of Science - BSc",
@@ -160,9 +146,33 @@
       "endDate": "2016-12-31",
       "score": "8.90 / 9",
       "courses": []
+    },
+    {
+      "institution": "University of Washington",
+      "area": "",
+      "studyType": "Non-Matriculated Student",
+      "startDate": "2024",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Te Wānanga o Raukawa",
+      "area": "",
+      "studyType": "Certificate of Te Reo Māori",
+      "startDate": "2024-02-28",
+      "endDate": "",
+      "score": "",
+      "courses": []
     }
+  ], 
+  "awards": [
+    {
+      "title": "University of Canterbury Doctoral Scholarship",
+      "date": "2019",
+      "awarder": "University of Canterbury"
+     }
   ],
-  "awards": [],
   "certificates": [
     {
       "name": "PADI Open Water",
@@ -215,24 +225,24 @@
   ],
   "skills": [
     {
-      "name": "Examination Marking",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Teaching",
       "level": "",
-      "keywords": []
+      "keywords": ["Setting Exams", "Marking Exams", "Writing Lecture Notes", "Delivering Lectures", "Course Administration"]
     },
     {
-      "name": "Setting Exams",
+      "name": "Python",
       "level": "",
-      "keywords": []
+      "keywords": ["pandas", "matplotlib", "scipy", "numpy"]
     },
     {
-      "name": "Writing Lecture Notes",
+      "name": "MATLAB",
       "level": "",
-      "keywords": []
+      "keywords": ["optimisation", "DE solving"]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "keywords": ["conda", "git"]
     }
   ],
   "languages": [
@@ -241,8 +251,24 @@
       "fluency": "Native Speaker"
     }
   ],
-  "interests": [],
-  "references": [],
+  "interests": [
+    {
+      "name": "Sailing",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Dinghy",
+        "Coastal",
+        "Bluewater/Offshore"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor Miguel Moyers-Gonzalez",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
   "projects": [],
   "meta": {
     "version": "v1.0.0",
