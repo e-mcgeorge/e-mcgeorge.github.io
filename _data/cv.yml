@@ -1,31 +1,39 @@
-- title: Overview
+- title: General Information
   type: map
   contents:
     - name: Full Name
       value: Elizabeth McGeorge
-    - name: Current Position
-      value: Postdoctoral Scholar at UW CICOES / NOAA PMEL
+    - name: Date of Birth
+      value: 5th Feb 1997
+    - name: Languages
+      value: English
+
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Philosophy (Mathematics)
-      year: 2019 - 2023
-      description: >
-      University of Canterbury, Christchurch, New Zealand My thesis was entitled "Beyond Observations: Recovery of unknown parameters in ice flows using optimisation techniques and other tools."
-      Conferred October 11, 2023.
+    - title: PhD
+      institution: University of Canterbury, Christchurch, New Zealand
+      year: 2023
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
     - title: B. Sc. (Hons) (First Class)
       institution: University of Canterbury, Christchurch, New Zealand
-      year: 2015 - 2018
-      description: >
-      Major: Mathematics
-    - title: Certificate of Te Reo Maori
-      institution
-- title: Professional Experience
+      year: 2019
+      description:
+        - Description 1.
+        - Description 2.
+
+- title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Scholar
       institution: Cooperative Institute for Climate, Ocean, & Ecosystems Studies, University of Washington
-      year: 2024 - NOW
+      year: 2024 - 
       description:
         - Description 1.
         - Description 2.
@@ -67,6 +75,9 @@
       items:
         - Nobel Prize in Physics
         - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
