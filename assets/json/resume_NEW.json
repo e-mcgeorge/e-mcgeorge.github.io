@@ -102,36 +102,12 @@
     {
       "name": "Teaching",
       "level": "",
-      "keywords": ["Setting Exams", "Marking Exams", "Writing Lecture Notes", "Delivering Lectures", "Course Administration", "Pastoral Care"]
+      "keywords": ["Setting/Marking Exams", "Writing Lecture Notes", "Delivering Lectures", "Course Administration", "Pastoral Care"]
     },
     {
-      "name": "Computational",
+      "name": "Programming",
       "level": "",
       "keywords": ["python", "MATLAB", "conda", "git", "LaTeX", "COMSOL", "Sage Math"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native Speaker"
-    },
-    {
-      "language": "Te Reo Maori",
-      "fluency": "Beginner"
-    },
-    {
-      "language": "Japanese",
-      "fluency": "Beginner"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Sailing",
-      "keywords": [
-        "Dinghy",
-        "Coastal",
-        "Bluewater/Offshore"
-      ]
     }
   ]
 }
