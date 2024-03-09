@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Last updated: 10 March 2024. Please see my LinkedIn or contact me for an up-to-date CV.
 toc:
   sidebar: left
 ---
