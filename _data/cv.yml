@@ -1,13 +1,10 @@
-- title: General Information
+- title: Overview
   type: map
   contents:
     - name: Full Name
       value: Elizabeth McGeorge
-    - name: Date of Birth
-      value: 5th Feb 1997
-    - name: Languages
-      value: English
-
+    - name: Current Position
+      value: Postdoctoral Scholar at UW CICOES / NOAA PMEL
 - title: Education
   type: time_table
   contents:
@@ -28,7 +25,7 @@
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
     - title: Postdoctoral Scholar
