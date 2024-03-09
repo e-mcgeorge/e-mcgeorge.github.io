@@ -1,11 +1,9 @@
-- title: Overview
+- title: Education
   type: map
   contents:
-    - name: Current Position
-      value: Postdoctoral Scholar at University of Washington
-    - name: Languages
+    - name: 2019 - 2023
+      value: Doctor of Philosophy (Mathematics)
+    - name: 2015 - 2018
       value: English
-    - name: Education
-      value: PhD in Mathematics
-    - name: Research interests
-      value: physical oceanography, inverse methods, numerical modelling
+    - name: 2015 - 2018
+      value: B. Sc. (Hons) (First Class)
