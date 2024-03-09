@@ -1,94 +1,203 @@
-- title: Overview
-  type: map
-  contents:
-    - name: Full Name
-      value: Elizabeth McGeorge
-    - name: Current Position
-      value: Postdoctoral Scholar at UW CICOES / NOAA PMEL
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Canterbury, Christchurch, New Zealand
-      year: 2023
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: B. Sc. (Hons) (First Class)
-      institution: University of Canterbury, Christchurch, New Zealand
-      year: 2019
-      description:
-        - Description 1.
-        - Description 2.
+---
+"$schema": https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json
+basics:
+  name: Elizabeth McGeorge
+  label: Postdoctoral Scholar at University of Washington CICOES & NOAA PMEL
+  image: ''
+  email: liz.mcgeorge@outlook.com
+  phone: ''
+  url: ''
+  summary: |-
+    I am an early career researcher with a Ph.D. in Mathematics which explored inverse problems methods and optimal control for geophysical fluid flows. I am adept at utilizing mathematical models and computational methods to analyze complex environmental phenomena.
 
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Scholar
-      institution: Cooperative Institute for Climate, Ocean, & Ecosystems Studies, University of Washington
-      year: 2024 - 
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Lecturer 
-      institution: School of Mathematics and Statistics, College of Engineering, University of Canterbury
-      year: 2022
-      description:
-        - Description 1.
-        - Description 2.
+    Currently, I am engaged in research utilizing Unmanned Surface Vehicles (USVs) to observe the eastern edge of the warm pool in the tropical Pacific region. My goal is to contribute to the advancement of our understanding of the processes in the tropical Pacific and the needs of observational systems.
 
-    - title: Mathamtics Teaching Assistant
-      institution: School of Mathematics and Statistics, College of Engineering, University of Canterbury
-      year: 2018 - 2022
+    Let's connect to explore potential collaborations or discuss shared interests in environmental science.
+  location:
+    countryCode: US
+    address: United States
+  profiles:
+  - network: LinkedIn
+    username: elizabeth-mcgeorge-034544249
+    url: https://www.linkedin.com/in/elizabeth-mcgeorge-034544249/
+work:
+- name: University of Washington
+  position: Postdoctoral Researcher
+  startDate: '2024-01-31'
+  endDate: ''
+  highlights: []
+  summary: |-
+    Postdoctoral researcher working at the University of Washington's Cooperative Institute for Climate, Ocean, and Ecosystem Studies in collaboration with the NOAA Pacific Marine Environmental Laboratory.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    I am working with Dr. Yolande Serra (UW CICOES), Dr. Dongxiao Zhang (UW CICOES/NOAA PMEL) and Dr. Meghan Cronin (NOAA PMEL). Our current work is part of a much larger process study to be carried out at the eastern edge of the warm pool (EEWP) and cold tongue regions seeking to address uncertainties in processes regulating sea surface temperatures (SSTs). A key parameter for regulating equatorial SST and the location of the EEWP is upper ocean vertical velocity, which is needed in the calculation of turbulent mixing within the mixed layer and vertical advection of water properties across the base of the mixed layer over a range of time scales. We are investigating the usefulness of acoustic doppler current profilers (ADCPs) on Saildrones for calculating vertical velocity. This work aims to assist in reducing model biases in the eastern tropical Pacific and improving skill in El Niño Southern Oscillation (ENSO) predictions.
+  url: https://www.linkedin.com/school/university-of-washington/
+- name: University of Canterbury
+  position: Lecturer (Teaching and Admin) - Mathematics and Statistics
+  startDate: '2022-02-28'
+  endDate: '2022-11-30'
+  highlights: []
+  summary: |-
+    Lectured on two courses: ENCH298 and EMTH119. For both, I was responsisble for delivering lectures, providing regular office hours and both writing and marking examinations.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    ENCH298 is a course for second year chemical and process engineering students. It is designed to amalgamate the mathematics they need along with the applications they will experience in their field. Topics lectured include Laplace and Fourier transforms, Fourier analysis,  multivariate calculus. The course had a single stream of three 1-hour lectures. I delivered all the lectures for 7 weeks of this course.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    EMTH119 is a mathematics course for first year engineering students. It has approximately 1000 students and has four 1-hour teaching lectures a week, delivered in two separate streams morning and afternoon giving 8 hours total. For this course, I delivered all lectures for a 3 week section on probability theory. Topics covered include set theory, discrete and random variables, expectation, mean, and variance.
+  url: https://www.linkedin.com/school/university-of-canterbury/
+  location: Christchurch, Canterbury, New Zealand
+- name: University of Canterbury
+  position: Mathematics Teaching Assistant
+  startDate: '2017-02-28'
+  endDate: '2022-11-30'
+  highlights: []
+  summary: |-
+    At 200 level, I ran help sessions in applied mathemtics, mainly in linear algebra and differential equations. Topics covered in linear algebra include vector spaces, linear transformations, eigenvalues, and orthogonality with applications to Markov chains, population and economic models, least squares approximation, cryptography, coding theory, data compression. Topic in differential systems include systems of linear and non-linear first order differential equations, phase plane techniques, numerical methods, stiff systems, Laplace transforms (including initial value problems, shift theorems, step functions and impulses, convolution, resonance), Fourier series and elementary Fourier transforms.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    At 100 level, I taught across the entire range of offered courses.  This involved both explanations to small groups as well as one-on-one work with the students.
+  url: https://www.linkedin.com/school/university-of-canterbury/
+  location: Christchurch, Canterbury, New Zealand
+- name: Vail Resorts Retail LLC
+  position: Ski Technician
+  startDate: '2017-12-31'
+  endDate: '2018-01-31'
+  highlights: []
+  url: https://www.linkedin.com/company/vail-resorts-retail-llc/
+  location: Keystone, Colorado, United States
+- name: Vail Resorts Retail LLC
+  position: Store Supervisor
+  startDate: '2016-11-30'
+  endDate: '2017-04-30'
+  highlights: []
+  summary: General management duties including shipping/receiving, mentoring, timetabling,
+    inventory monitoring, ensuring company policy compliance, day-to-day floor management
+    as well as store cash handling.
+  url: https://www.linkedin.com/company/vail-resorts-retail-llc/
+  location: Keystone, Colorado, United States
+- name: University of Canterbury
+  position: Emerging Leaders Development Program
+  startDate: '2016-02-28'
+  endDate: '2016-11-30'
+  highlights: []
+  url: https://www.linkedin.com/school/university-of-canterbury/
+  location: Christchurch, Canterbury, New Zealand
+- name: University of Canterbury
+  position: UC Events Host
+  startDate: '2015-08-31'
+  endDate: '2016-11-30'
+  highlights: []
+  url: https://www.linkedin.com/school/university-of-canterbury/
+  location: Christchurch, Canterbury, New Zealand
+- name: University of Canterbury
+  position: Teaching Assistant
+  startDate: '2016-02-28'
+  endDate: '2016-07-31'
+  highlights: []
+  url: https://www.linkedin.com/school/university-of-canterbury/
+  location: Christchurch, Canterbury, New Zealand
+- name: Burger Wisconsin
+  position: Cashier / Kitchen Staff
+  startDate: '2012-02-28'
+  endDate: '2014-02-28'
+  highlights: []
+  url: https://www.linkedin.com/company/burger-wisconsin/
+  location: Christchurch, Canterbury, New Zealand
+volunteer: []
+education:
+- institution: University of Washington
+  area: ''
+  studyType: Non-Matriculated Student
+  startDate: '2024-03-31'
+  endDate: ''
+  score: ''
+  courses: []
+- institution: The University of British Columbia
+  area: Mathematics
+  studyType: Bachelor of Science - BSc
+  startDate: '2017-12-31'
+  endDate: ''
+  score: 83.5%
+  courses: []
+- institution: University of Canterbury
+  area: Mathematics
+  studyType: B.Sc. (Hons) (First Class)
+  startDate: '2018-12-31'
+  endDate: ''
+  score: 8.75 / 9
+  courses: []
+- institution: University of Canterbury
+  area: Mathematics
+  studyType: Doctor of Philosophy - PhD
+  startDate: '2019-12-31'
+  endDate: '2023-12-31'
+  score: ''
+  courses: []
+- institution: Te Wānanga o Raukawa
+  area: ''
+  studyType: Certificate of Te Reo Māori
+  startDate: '2024-02-28'
+  endDate: ''
+  score: ''
+  courses: []
+- institution: University of Canterbury
+  area: Mathematics
+  studyType: Bachelor of Science - BSc
+  startDate: '2015-12-31'
+  endDate: '2016-12-31'
+  score: 8.90 / 9
+  courses: []
+awards: []
+certificates:
+- name: PADI Open Water
+  issuer: PADI
+  startDate: '2018-12-31'
+- name: Advanced Sea Survival
+  issuer: Coastguard New Zealand
+  startDate: '2022-09-30'
+- name: Maritime Restricted Radio Operators Certificate
+  issuer: Coastguard New Zealand
+  startDate: '2022-06-30'
+- name: Outdoor Pre-Hospital Emergency Care
+  issuer: Horizons Unlimited NZ
+  endDate: '2022-11-30'
+  startDate: '2020-11-30'
+- name: Comprehensive First Aid
+  issuer: New Zealand Red Cross
+  endDate: '2022-10-31'
+  startDate: '2020-10-31'
+- name: Avalanche Awareness (MSC Avalanche Skills 1)
+  issuer: New Zealand Snow Safety Institute
+  startDate: '2017-06-30'
+publications:
+- name: An augmented lagrangian algorithm for recovery of ice thickness in unidirectional
+    flow using the shallow ice approximation
+  publisher: Applied Mathematical Modelling
+  releaseDate: '2022-07-01'
+  summary: ''
+  url: https://doi.org/10.1016/j.apm.2022.03.001
+- name: Bedrock reconstruction from free surface data for unidirectional glacier flow
+    with basal slip
+  publisher: Acta Mechanica
+  releaseDate: '2020-11-06'
+  summary: ''
+  url: https://doi.org/10.1007/s00707-020-02845-x
+skills:
+- name: Examination Marking
+  level: ''
+  keywords: []
+- name: Teaching
+  level: ''
+  keywords: []
+- name: Setting Exams
+  level: ''
+  keywords: []
+- name: Writing Lecture Notes
+  level: ''
+  keywords: []
+languages:
+- language: English
+  fluency: Native Speaker
+interests: []
+references: []
+projects: []
+meta:
+  version: v1.0.0
+  canonical: https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json
