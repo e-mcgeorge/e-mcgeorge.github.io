@@ -17,15 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<figure class="quote">
-  <blockquote>
-    He hiringa hangarau, he oranga tangata.
-  </blockquote>
-  <figcaption>
-    Innovation in technology, for the benefit of all.</cite>  </figcaption>
-</figure>
 
-<div style="text-align: justify"> I am an early career researcher with a Ph.D. in Mathematics which explored inverse problems methods and optimal control for geophysical fluid flows. I am adept at utilizing mathematical models and computational methods to analyze complex environmental phenomena.Currently, I am engaged in research utilizing Unmanned Surface Vehicles (USVs) to observe the eastern edge of the warm pool in the tropical Pacific region. My goal is to contribute to the advancement of our understanding of the processes in the tropical Pacific and the needs of observational systems. </div>
+_He hiringa hangarau, he oranga tangata._
+Innovation in technology, for the benefit of all.
+
+
+I am an early career researcher with a Ph.D. in Mathematics which explored inverse problems methods and optimal control for geophysical fluid flows. I am adept at utilizing mathematical models and computational methods to analyze complex environmental phenomena.Currently, I am engaged in research utilizing Unmanned Surface Vehicles (USVs) to observe the eastern edge of the warm pool in the tropical Pacific region. My goal is to contribute to the advancement of our understanding of the processes in the tropical Pacific and the needs of observational systems.
 
 Let's connect to explore potential collaborations or discuss shared interests in mathemtical and environmental science. 
 
