@@ -2,7 +2,8 @@
   type: map
   contents:
     - name: 2019 - 2023
-      value: <p> Doctor of Philosophy (Mathematics) </p>
+      value: <p> Doctor of Philosophy (Mathematics) <br> </p>
+      description: description
     - name: 2015 - 2018
       value: B. Sc. (Hons) (First Class)
 - title: Professional Experience
