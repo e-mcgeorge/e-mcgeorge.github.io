@@ -2,22 +2,28 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://cicoes.uw.edu/education/postdoc-program/current-postdoctoral-researchers/">University of Washington</a>, <a href="https://www.pmel.noaa.gov/ocs/people">NOAA Pacific Marine Environment Laboratory</a> <i>He hiringa hangarau, he oranga tangata.</i>
+subtitle: <a href="https://cicoes.uw.edu/education/postdoc-program/current-postdoctoral-researchers/">University of Washington</a>, <a href="https://www.pmel.noaa.gov/ocs/people">NOAA Pacific Marine Environment Laboratory</a> 
 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i> site.email</a></p>
-    <p> CICOES </p>
-    <p> University of Washington</p>
+    <p> <a href="mailto:elizabeth.mcgeorge@noaa.gov" title="email"><i class="fa-solid fa-envelope"></i> elizabeth.mcgeorge@noaa.gov</a></p>
+    <p> </p>
     <p> Seattle, WA </p>
+    <div class="social">
+        <div class="contact-icons">{% include social.liquid %}</div>
+        <div class="contact-note">{{ site.contact_note }}</div>
+    </div>
+    <p> Postdoctoral Physical Oceanographer at University of Washington <br> PhD Mathematics at University of Canterbury</p>
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
+<i>He hiringa hangarau, he oranga tangata.</i>
 
 I am an early career researcher with a Ph.D. in Mathematics which explored inverse problems methods and optimal control for geophysical fluid flows. I am adept at utilizing mathematical models and computational methods to analyze complex environmental phenomena.\n\nCurrently, I am engaged in research utilizing Unmanned Surface Vehicles (USVs) to observe the eastern edge of the warm pool in the tropical Pacific region. My goal is to contribute to the advancement of our understanding of the processes in the tropical Pacific and the needs of observational systems.
 
