@@ -10,21 +10,23 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <a href="mailto:elizabeth.mcgeorge@noaa.gov" title="email"><i class="fa-solid fa-envelope"></i> elizabeth.mcgeorge@noaa.gov</a></p>
-    <p> </p>
-    <p> Seattle, WA </p>
-    <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-        <div class="contact-note">{{ site.contact_note }}</div>
-    </div>
-    <p> Postdoctoral Physical Oceanographer at University of Washington <br> PhD Mathematics at University of Canterbury</p>
+    <p> Postdoctoral physical oceanographer at University of Washington <br><i class="fa fa-map-marker" aria-hidden="true"></i> Seattle, WA</p>
+    <p> PhD Mathematics at University of Canterbury <br><i class="fa fa-map-marker" aria-hidden="true"></i> Christchurch, New Zealand</p>
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<i>He hiringa hangarau, he oranga tangata.</i>
+<figure class="quote">
+  <blockquote>
+    He hiringa hangarau, he oranga tangata.
+  </blockquote>
+  <figcaption>
+    Innovation in technology, for the benefit of all.</cite>  </figcaption>
+</figure>
 
-I am an early career researcher with a Ph.D. in Mathematics which explored inverse problems methods and optimal control for geophysical fluid flows. I am adept at utilizing mathematical models and computational methods to analyze complex environmental phenomena.\n\nCurrently, I am engaged in research utilizing Unmanned Surface Vehicles (USVs) to observe the eastern edge of the warm pool in the tropical Pacific region. My goal is to contribute to the advancement of our understanding of the processes in the tropical Pacific and the needs of observational systems.
+<div style="text-align: justify"> I am an early career researcher with a Ph.D. in Mathematics which explored inverse problems methods and optimal control for geophysical fluid flows. I am adept at utilizing mathematical models and computational methods to analyze complex environmental phenomena.Currently, I am engaged in research utilizing Unmanned Surface Vehicles (USVs) to observe the eastern edge of the warm pool in the tropical Pacific region. My goal is to contribute to the advancement of our understanding of the processes in the tropical Pacific and the needs of observational systems. </div>
 
-Let's connect to explore potential collaborations or discuss shared interests in mathemtical and environmental science.
+Let's connect to explore potential collaborations or discuss shared interests in mathemtical and environmental science. 
+
+
