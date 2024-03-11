@@ -2,26 +2,35 @@
   type: map
   contents:
     - name: 2019 - 2023
-      value: <p> Doctor of Philosophy (Mathematics) <br> </p>
-      description: description
+      value: <p> Doctor of Philosophy (Mathematics) </p>
+      description: <p> Beyond Observations&#58; Recovery of unknown parameters in ice flows using optimisation techniques and other tools.</p>
     - name: 2015 - 2018
       value: B. Sc. (Hons) (First Class)
-- title: Professional Experience
+- title: Experience
   type: map
   contents:
+    - name: CURRENT
+      value: Postdoctoral Scholar
+      description: <p> Collaboration with Dr. Yolande Serra (UW CICOES), Dr. Dongxiao Zhang (UW CICOES/NOAA PMEL) and Dr. Meghan Cronin (NOAA PMEL). Our current work is part of a much larger process study to be carried out at the eastern edge of the warm pool (EEWP) and cold tongue regions seeking to address uncertainties in processes regulating sea surface temperatures (SSTs). A key parameter for regulating equatorial SST and the location of the EEWP is upper ocean vertical velocity, which is needed in the calculation of turbulent mixing within the mixed layer and vertical advection of water properties across the base of the mixed layer over a range of time scales. We are investigating the usefulness of acoustic doppler current profilers (ADCPs) on Saildrones for calculating vertical velocity. This work aims to assist in reducing model biases in the eastern tropical Pacific and improving skill in El Niño Southern Oscillation (ENSO) predictions. </p>
     - name: <p> 2022 </p>
       value: Lecturer
+      description: <p> Lectured on two courses&#58; ENCH298 and EMTH119. For both, I was responsisble for delivering lectures, providing regular office hours as well as both writing and marking examinations.
+ </p>
     - name: 2017 - 2022
       value: Teaching Assistant
-- title: title
-  type: map
-  contents:
-    - name: date
-      value: description
-- title: Professional Service
+      description: <p> At 200 level, I ran help sessions in applied mathemtics, mainly in linear algebra and differential equations. Topics covered in linear algebra include vector spaces, linear transformations, eigenvalues, and orthogonality with applications to Markov chains, population and economic models, least squares approximation, cryptography, coding theory, data compression. Topic in differential systems include systems of linear and non-linear first order differential equations, phase plane techniques, numerical methods, stiff systems, Laplace transforms (including initial value problems, shift theorems, step functions and impulses, convolution, resonance), Fourier series and elementary Fourier transforms. <br> At 100 level, I taught across the entire range of offered courses.  This involved both explanations to small groups as well as one-on-one work with the students. </p>
+  
+
+- title: Service
   type: map
   contents:
     - name: 2021, 2022
       value: Fluids in New Zealand Conference Organisation Committee
     - name: 2017, 2019
       value: Volunteer for New Zealand Maths Craft (an outreach organisation for mathematics education)
+
+- title: title
+  type: map
+  contents:
+    - name: date
+      value: description
