@@ -2,8 +2,26 @@
   type: map
   contents:
     - name: 2019 - 2023
-      value: Doctor of Philosophy (Mathematics)
-    - name: 2015 - 2018
-      value: English
+      value: >
+      <p> Doctor of Philosophy (Mathematics) </p>
     - name: 2015 - 2018
       value: B. Sc. (Hons) (First Class)
+- title: Professional Experience
+  type: map
+  contents:
+    - name: 2022
+      value: Lecturer
+    - name: 2017 - 2022
+      value: Teaching Assistant
+- title: title
+  type: map
+  contents:
+    - name: date
+      value: description
+- title: Professional Service
+  type: map
+  contents:
+    - name: 2021, 2022
+      value: Fluids in New Zealand Conference Organisation Committee
+    - name: 2017, 2019
+      value: Volunteer for New Zealand Maths Craft (an outreach organisation for mathematics education)

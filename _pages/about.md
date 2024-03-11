@@ -10,8 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Postdoctoral physical oceanographer at University of Washington <br><i class="fa fa-map-marker"></i> Seattle, WA</p>
-    <p> PhD Mathematics at University of Canterbury <br><i class="fa fa-map-marker"></i> Christchurch, New Zealand</p>
+    <p> Postdoctoral physical oceanographer at University of Washington <br><i class="fa-solid fa-map-marker"></i> Seattle, WA</p>
+    <p> PhD Mathematics at University of Canterbury <br><i class="fa-solid fa-map-marker"></i> Christchurch, New Zealand</p>
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -19,6 +19,7 @@ social: false # includes social icons at the bottom of the page
 
 
 _He hiringa hangarau, he oranga tangata._
+
 Innovation in technology, for the benefit of all.
 
 
