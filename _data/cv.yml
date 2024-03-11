@@ -1,0 +1,27 @@
+- title: Education
+  type: map
+  contents:
+    - name: 2019 - 2023
+      value: Doctor of Philosophy (Mathematics)
+    - name: 2015 - 2018
+      value: B. Sc. (Hons) (First Class)
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Scholar
+      institution: Cooperative Institute for Climate, Ocean, & Ecosystems Studies, University of Washington
+      year: 2024
+      description:
+        - Collaboration with Dr. Yolande Serra (UW CICOES), Dr. Dongxiao Zhang (UW CICOES/NOAA PMEL) and Dr. Meghan Cronin (NOAA PMEL). 
+        - Investigating the usefulness of acoustic doppler current profilers (ADCPs) on Saildrones for calculating vertical velocity. This work aims to assist in reducing model biases in the eastern tropical Pacific and improving skill in El Niño Southern Oscillation (ENSO) predictions.
+    - title: Lecturer 
+      institution: School of Mathematics and Statistics, College of Engineering, University of Canterbury
+      year: 2022
+      description:
+      Courses
+        - EMTH119.
+        - ENCH298.
+    - title: Mathematics Teaching Assistant
+      institution: School of Mathematics and Statistics, College of Engineering, University of Canterbury
+      year: 2018
