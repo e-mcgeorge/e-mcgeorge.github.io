@@ -1,4 +1,12 @@
 - title: Education
+  type: plain
+  contents:
+    - item: <p> Doctor of Philosophy (Mathematics) </p> <i> 2019 -- 2023 </i>
+      description: Beyond Observations; Recovery of unknown parameters in ice flows using optimisation techniques and other tools.
+    - item: B. Sc. (Hons) (First Class) <i> 2015 -- 2018 </i>
+      description: Majored in mathematics.
+
+- title: Education
   type: map
   contents:
     - name: 2019 -- 2023

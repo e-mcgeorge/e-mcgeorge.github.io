@@ -1,0 +1,10 @@
+<table class="table table-cv table-sm table-borderless table-responsive">
+  {% for content in entry.contents %}
+    <tr>
+      <td class="post-description">
+        <p style="color:blue">{{ content.item }}</p>
+        <p>{{ content.description }}</p>
+      </td>
+    </tr>
+  {% endfor %}
+</table>
