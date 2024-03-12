@@ -5,9 +5,9 @@
         <b>{{ content.name }}</b>
       </td>
       {% if content.value %}
-        <td class="p-1 pl-2 font-weight-light text">
-          <p style="color:blue">{{ content.value }}</p>
-          <p class="post-description">{{ content.description }}</p>
+        <td class="post-description">
+          <p  style="color:var(--global-theme-color)">{{ content.value }}</p>
+          <p>{{ content.description }}</p>
         </td>
       {% endif %}
       {% if content.links %}
