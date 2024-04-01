@@ -3,14 +3,14 @@
   contents:
     - name: 2019&mdash; 2023
       value: Doctor of Philosophy (Mathematics)
-      description: Beyond Observations; Recovery of unknown parameters in ice flows using optimisation techniques and other tools.
+      description: Beyond Observations; Recovery of unknown parameters in ice flows using optimisation techniques and other tools. Advisors&mdash; Dr. Miguel Moyers-Gonzalez (primary), Dr. Mathieu Sellier, Dr. Phillip Wilson.
     - name: 2015&mdash; 2018
       value: B. Sc. (Hons) (First Class)
-      description: Majored in mathematics.
+      description: Major&mdash; mathematics.
 - title: Experience
   type: map
   contents:
-    - name: 2024&mdash; NOW
+    - name: 2024&mdash;
       value: Postdoctoral Scholar
       description: Collaboration with Dr. Yolande Serra (UW CICOES), Dr. Dongxiao Zhang (UW CICOES/NOAA PMEL) and Dr. Meghan Cronin (NOAA PMEL). Our current work is part of a much larger process study to be carried out at the eastern edge of the warm pool (EEWP) and cold tongue regions seeking to address uncertainties in processes regulating sea surface temperatures (SSTs). A key parameter for regulating equatorial SST and the location of the EEWP is upper ocean vertical velocity, which is needed in the calculation of turbulent mixing within the mixed layer and vertical advection of water properties across the base of the mixed layer over a range of time scales. We are investigating the usefulness of acoustic doppler current profilers (ADCPs) on Saildrones for calculating vertical velocity. This work aims to assist in reducing model biases in the eastern tropical Pacific and improving skill in El Niño Southern Oscillation (ENSO) predictions.
     - name: 2022
