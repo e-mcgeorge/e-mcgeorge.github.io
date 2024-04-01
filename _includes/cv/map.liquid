@@ -1,11 +1,11 @@
 <table class="table table-cv table-sm table-borderless table-responsive">
   {% for content in entry.contents %}
     <tr>
-      <td class="post-description">
+      <td class="post-description" width="20%">
         <b>{{ content.name }}</b>
       </td>
       {% if content.value %}
-        <td class="post-description">
+        <td class="post-description" width="80%">
           <p  style="color:var(--global-theme-color)">{{ content.value }}</p>
           <p>{{ content.description }}</p>
         </td>
