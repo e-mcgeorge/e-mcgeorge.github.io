@@ -2,36 +2,36 @@
   type: map
   contents:
     - name: 2019&mdash; 2023
-      value: Doctor of Philosophy (Mathematics)
+      value: Doctor of Philosophy (Mathematics), _University of Canterbury_
       description: Beyond Observations; Recovery of unknown parameters in ice flows using optimisation techniques and other tools. Advisors&mdash; Dr. Miguel Moyers-Gonzalez (primary), Dr. Mathieu Sellier, Dr. Phillip Wilson.
     - name: 2015&mdash; 2018
-      value: B. Sc. (Hons) (First Class)
+      value: B. Sc. (Hons) (First Class), _University of Canterbury_
       description: Major&mdash; mathematics.
 - title: Experience
   type: map
   contents:
     - name: 2024&mdash;
-      value: Postdoctoral Scholar
+      value: Postdoctoral Scholar _University of Washington/NOAA Pacific Marine Envrironment Laboratory_
       description: Collaboration with Dr. Yolande Serra (UW CICOES), Dr. Dongxiao Zhang (UW CICOES/NOAA PMEL) and Dr. Meghan Cronin (NOAA PMEL). Our current work is part of a much larger process study to be carried out at the eastern edge of the warm pool (EEWP) and cold tongue regions seeking to address uncertainties in processes regulating sea surface temperatures (SSTs). A key parameter for regulating equatorial SST and the location of the EEWP is upper ocean vertical velocity, which is needed in the calculation of turbulent mixing within the mixed layer and vertical advection of water properties across the base of the mixed layer over a range of time scales. We are investigating the usefulness of acoustic doppler current profilers (ADCPs) on Saildrones for calculating vertical velocity. This work aims to assist in reducing model biases in the eastern tropical Pacific and improving skill in El Niño Southern Oscillation (ENSO) predictions.
     - name: 2022
-      value: Lecturer
+      value: Lecturer, _University of Canterbury_
       description: Lectured on two courses; ENCH298 and EMTH119. For both, I was responsisble for delivering lectures, providing regular office hours as well as both writing and marking examinations.
     - name: 2018&mdash; 2022
-      value: Teaching Assistant
+      value: Teaching Assistant, _University of Canterbury_
       description: At 200 level, I ran help sessions in applied mathemtics, mainly in linear algebra and differential equations. Topics covered in linear algebra include vector spaces, linear transformations, eigenvalues, and orthogonality with applications to Markov chains, population and economic models, least squares approximation, cryptography, coding theory, data compression. Topic in differential systems include systems of linear and non-linear first order differential equations, phase plane techniques, numerical methods, stiff systems, Laplace transforms (including initial value problems, shift theorems, step functions and impulses, convolution, resonance), Fourier series and elementary Fourier transforms. <br> At 100 level, I taught across the entire range of offered courses.  This involved both explanations to small groups as well as one-on-one work with the students.
 
 - title: Volunteering
   type: map
   contents:
     - name: 2021, 2022
-      value: New Zealand Mathemtical Society Conference Committee
-      description: Early career committee member. Update the conference website, organised student accomodation.
+      value: New Zealand Mathemtical Society Conference
+      description: Early career committee member for two years. Update the conference website, organised student accomodation.
     - name: 2021
-      value: Fluids in New Zealand Conference Organisation Committee
+      value: Fluids in New Zealand Conference.
       description: Early career commitee member for organising this annual conference. Planned catering, name badges, conference dinner, student accomodation.
     - name: 2018, 2021
-      value: Volunteer for New Zealand Maths Craft (an outreach organisation for mathematics education)
-      details: This is a whole weekend event for mathmatics outreach.
+      value: Maths Craft New Zealand
+      details: Volunteer for this outreach organisation. I ran activities over a weekend for the community. The programme is aimed mainly at school aged participants but also attracts people from across all age groups.
 - title: title
   type: map
   contents:
