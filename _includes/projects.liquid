@@ -12,7 +12,9 @@
         %}
       {% endif %}
       <div class="card-body">
-        <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+         <!-- Change h2 to h4 and remove text-lowercase -->
+        <h4 class="card-title">{{ project.title }}</h4>
+        <!-- <h2 class="card-title text-lowercase">{{ project.title }}</h2> -->
         <p class="card-text">{{ project.description }}</p>
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
