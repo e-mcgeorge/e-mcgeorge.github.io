@@ -1,9 +1,9 @@
 <div class="grid-sizer"></div>
-<div class="grid-item">
+<div class="grid-item" style="width: 100%;">
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
-    <div class="card hoverable d-flex flex-row align-items-start">
+    <div class="card hoverable d-flex flex-row align-items-start" style="width: 100%;">
       {% if project.img %}
-        <div class="project-image" style="flex: 1; max-width: 250px;">
+        <div class="project-image" style="max-width: 250px; flex-shrink: 0;">
           {%
             include figure.liquid
             loading="eager"
@@ -13,7 +13,7 @@
           %}
         </div>
       {% endif %}
-      <div class="card-body" style="flex: 2; padding-left: 20px;">
+      <div class="card-body" style="flex-grow: 1; padding-left: 20px;">
         <!-- Adjust the title size -->
         <h4 class="card-title">{{ project.title }}</h4>
         <p class="card-text">{{ project.description }}</p>
