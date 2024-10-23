@@ -5,8 +5,8 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Work, Just for Fun, University]
-horizontal: true
+display_categories: [Work, Just for Fun, University, Exampls]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
