@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: McGeorge_E_K_CV.pdf
-description: Last updated 10 March 2024. Please contact me if you would like an extended and/or up-to-date CV!
+description: Last updated October 23 2024. Please contact me if you would like an extended and/or up-to-date CV!
 ---
 
 <iframe src="{{ site.baseurl }}/assets/pdf/{{ page.cv_pdf }}" width="100%" height="800px" frameborder="0">
