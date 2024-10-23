@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 display_categories: [Work, Just for Fun, University, Exampls]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -24,7 +24,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      {% include projects_horizontal_v2.liquid %}
     {% endfor %}
     </div>
   </div>
