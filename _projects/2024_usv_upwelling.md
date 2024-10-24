@@ -6,6 +6,8 @@ img: assets/img/saildrone.jpg
 importance: 1
 category: Oceanography
 related_publications: true
+toc:
+  sidebar: left
 ---
 
 Every project has a beautiful feature showcase page.
