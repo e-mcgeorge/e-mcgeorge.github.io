@@ -20,8 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 _He hiringa hangarau, he oranga tangata._ Innovation in technology, for the benefit of all.
 
-
-I am an early career researcher with a Ph.D. in Mathematics. My thesis was in the field of computational fluid dynamics and explored inverse problems methods, such as optimal control, for geophysical fluid flows. I am adept at utilizing mathematical models and computational methods to analyze complex environmental phenomena. Currently, I am engaged in research utilizing Unmanned Surface Vehicles (USVs) to observe the eastern edge of the warm pool and estimate upwelling in the tropical Pacific region. My goal is to contribute to the advancement of our understanding of the processes in the tropical Pacific and the needs of observational systems.
+I am an early career researcher in oceanography. My research background is in computational fluid dynamics for inverse problems in geophysical fluid flows, focusing on ice sheet dynamics. I enjoy using mathematical models and computational methods to analyze complex environmental phenomena. Currently, I am researching mixing processes in the tropical Pacific region using observations from Unmanned Surface Vehicles (USVs). My goal is to help advance understanding of ocean dynamics in the tropical Pacific, which will help predict large scale climate events, such as El-Nino Southern Oscillation.
 
 Reach out if you would like to explore potential collaborations or discuss shared interests in the mathematical and environmental sciences. 
 
